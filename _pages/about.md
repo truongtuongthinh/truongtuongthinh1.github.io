@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Thinh, 
+💯 Interested in Monetary Economics.
+
+🧑‍💻 Working as a Senior Credit Strategist at MoMo (Fintech).
+
+🎓 Graduated from RMIT University Vietnam with a Bachelor of Business in Economics & Finance (Top 5% for Academic Excellence - Class of 2023).
+
+
 
 My Career Plan
 ======
