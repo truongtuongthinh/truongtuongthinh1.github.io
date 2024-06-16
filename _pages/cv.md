@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Updated CV
+======
+* Updated on Jun 2024
+<iframe src="files/CV 2024-06-16.pdf" width="90%" height="600px">
+    <p>Your browser does not support iframes.</p>
+</iframe>
+  
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
