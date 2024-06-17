@@ -25,6 +25,6 @@ My Career Plan
 My Personal Life
 ======
 
-🗺 I like travelling 
+🗺 Passionate about travelling to different places and experience the local culture and cuisine.
 
 
