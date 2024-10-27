@@ -1,30 +1,19 @@
 ---
 permalink: /
-title: "Hello there, I'm Thinh!"
+title: "Hello, my name is Thinh!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-🧑‍💻 Currently, I'm working as a Senior Credit Strategist at MoMo (Fintech).
+🎓 I graduated from RMIT University Vietnam with a Bachelor of Business in Economics & Finance, honored to be presented in The Scholar's List of Top 5% for Academic Excellence - Class of 2023.
 
-💯 I'm particularly interested in Monetary Economics and Development Economics.
+🔥 After two years of invaluable experience in the Vietnamese Credit industry, I am looking forward to furthering my study in the field of Monetary Economics and Financial Resilience among developing countries.
 
-🎓 I graduated from RMIT University Vietnam with a Bachelor of Business in Economics & Finance (Top 5% for Academic Excellence - Class of 2023).
+👨🏾‍🎓 Taking Pre-master's at DEPOCEN, working real hard to become an Economic Researcher and Lecturer in the future!
 
-
-My Career Plan
+---
+Some notes
 ======
-
-🔥 After two year of invaluabe experience in the Vietnamese Credit industry, I am looking forward to further my study in the field of Monetary Economics and Development Economics.
-
-👨🏾‍🎓 I want to pursue working as an Economic Researcher and Lecturer in the future.
-
-
-My Personal Life
-======
-
-🗺 Passionate about travelling to different places and experience the local culture and cuisine.
-
-
+---
