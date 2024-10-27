@@ -13,7 +13,3 @@ redirect_from:
 
 👨🏾‍🎓 Taking Pre-master's at DEPOCEN, working real hard to become an Economic Researcher and Lecturer in the future!
 
----
-Some notes
-======
----
